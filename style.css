@@ -1,0 +1,369 @@
+.one{/*Верхняя панель */
+	width: 100%;
+	height: 80px;
+	background: rgb(91, 97, 105);
+}
+.block-one{/*TESTTASK template*/
+     margin-left: 26%;
+	z-index: 1;
+	height: 80px;
+}
+#topone{/*TESTTASK*/
+	height: auto;
+	margin-top:25px;
+	margin-right: 18px;
+}
+#toptwo{/*template*/
+    height:auto;
+    margin-right: 18px;
+}
+.two{
+	width: 100%;
+	height: 459.22px;
+	position: relative;
+}
+.two-image{
+	max-width:100%;
+	height: auto;
+     position: absolute;
+}
+.content{
+	position:  absolute;
+	left: 49.3%;
+	top: 20%;
+}
+.dot {
+  cursor: pointer;
+  height: 10px;
+  width: 10px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+.active, .dot:hover {
+  background-color: #717171;
+}
+.slider{
+     position: absolute;
+     top:26%;
+     left: -44.5%;
+}
+.IOS-content{
+	font-size: 20px;
+	font-family: arial;
+	color: white;
+}
+.text{
+	color:#818181;
+	width: 55%;
+	font-size: 1.1vw;
+	font-family: arial;
+}
+.button{
+position: absolute;
+top: 150%;
+}
+.text_button{
+	position: absolute;
+	top: 152.5%;
+	right: 83.5%;
+	color:white;
+	font-size: 20px;
+	font-family: arial;
+}
+
+.white{
+	width: 100%;
+	height: 500px;
+	position: relative;
+}
+.white_our{
+	width: 100%;
+	height: 90px;
+}
+.hr1{
+    border: none;
+    position: absolute;
+    background-color: #818181;
+    color: #818181;
+    height: 2px;
+    width: 200px;
+    left:25%;
+    top:4%;
+   }
+.hr2{
+	position: absolute;
+    border: none;
+    background-color: #818181;
+    color: #818181;
+    height: 2px;
+    width:200px;
+    margin-right: 100px;
+    right:15%;
+    top:4%;
+}
+.our_services{
+ 	position: absolute;
+ 	font-size: 40px;
+	font-family: arial;
+	color:#818181;
+	left:42%;
+	top:2%;
+}
+.white_three{
+ 	width: 100%;
+ 	height: 400px;
+ 	position: relative;
+}
+.block{
+ 	width: 300px;
+ 	height:auto;
+}
+#block1{
+ 	position: absolute;
+ 	top:10%;
+ 	left:22%;
+}
+.heading1{
+ 	font-size: 25px;
+ 	font-family: arial;
+ 	color:#3674ba;
+}
+.text_head1{
+ 	font-size: 15px;
+ 	font-family: arial;
+ 	text-align: center;
+}
+.button_info1{
+ width: 150px;
+ background: #3674ba;
+ left: 25%;
+ position: relative;
+}
+.text_button1{
+ 	top:9%;
+ 	left:24%;
+ 	color:white;
+ 	font-size:20px;
+ 	font-family: arial;
+   position: absolute;
+}
+#block2{
+ 	position: absolute;
+ 	top:10%;
+ 	left:41%;
+}
+#block3{
+ 	position: absolute;
+ 	top:10%;
+ 	right:20%;
+}
+.grey_bottom{
+ 	background: #D1D1D1;
+ 	width: 100%;
+	height: 650px;
+	position: absolute;
+}
+.grey_about{
+ 	width: 100%;
+	height: 50px;
+}
+.about{
+ 	position: absolute;
+ 	font-size: 35px;
+	font-family: arial;
+	color:#5B6169;
+ 	left: 46.7%;
+ 	top: 10%;
+}
+.hr3{
+position: absolute;
+	top: 11%;
+	left: 22%;
+    border: none;
+    background-color: #5B6169;
+    color: #5B6169;
+    height: 2px;
+    width: 350px;
+}
+.hr4{
+ 	position: absolute;
+	right: 20%;
+	top: 11%;
+    border: none;
+    background-color: #5B6169;
+    color: #5B6169;
+    height: 2px;
+    width: 350px;
+}
+.grey_content{
+	width: 1200px;
+	margin-top: 80px;
+	margin-left: 250px;
+}
+.grey_test{
+	width: 450px;
+	margin-left:100px;
+}
+.text_task{
+ 	color: rgb(124, 124, 124);
+     line-height: 1.2;
+     font-size:36px;
+ }
+ .text_l{
+ 	font-size: 14px;
+ 	margin-top: 10px;
+ 	text-align: justify;
+ }
+ .grey_position{
+ 	position: relative;
+ }
+ .skills{
+ 	margin-top: 30px;
+ 	margin-left: 350px;
+ 	color: #3674ba;
+ 	font-size: 30px;
+ }
+ .first_skill_grey{
+ 	background: rgb(124,124,124);
+ 	margin-left: 350px;
+ 	width: 455px;
+ 	height: 30px;
+ }
+ .first_skill_blue{
+ 	background: #3674ba;
+ 	width:350px;
+ 	height: 30px;
+ 	position: relative;
+ }
+ .first_skill_text{
+ 	position: absolute;
+ 	left: 10%;
+ 	top:5%;
+ 	color: white;
+ 	font-family: arial;
+ }
+ .second_skill_grey{
+ 	margin-top: 15px;
+ 	margin-left:350px;
+ 	background: rgb(124,124,124);
+ 	width: 455px;
+ 	height: 30px;
+ }
+ .second_skill_blue{
+ 	background: #3674ba;
+ 	width:430px;
+ 	height: 30px;
+ 	position: relative;
+ }
+ .second_skill_text{
+ 	position: absolute;
+ 	left: 10%;
+ 	top:5%;
+ 	color: white;
+ 	font-family: arial;
+ }
+.third_skill_grey{
+ 	margin-top: 15px;
+ 	margin-left:350px;
+ 	background: rgb(124,124,124);
+ 	width: 455px;
+ 	height: 30px;
+ }
+ .third_skill_blue{
+ 	background: #3674ba;
+ 	width:390px;
+ 	height: 30px;
+ 	position: relative;
+ }
+ .third_skill_text{
+ 	position: absolute;
+ 	left: 10%;
+ 	top:5%;
+ 	color: white;
+ 	font-family: arial;
+ }
+  .fourth_skill_grey{
+ 	margin-top: 15px;
+ 	margin-left:350px;
+ 	background: rgb(124,124,124);
+ 	width: 455px;
+ 	height: 30px;
+ }
+ .fourth_skill_blue{
+ 	background: #3674ba;
+ 	width:370px;
+ 	height: 30px;
+ 	position: relative;
+ }
+ .fourth_skill_text{
+ 	color: white;
+ 	font-family: arial;
+ 	position: absolute;
+ 	top:10%;
+ 	left: 5%;
+ }
+ .map{
+ 	position: absolute;
+ 	right: 15%;
+ 	top:23%;
+ }
+ .map_point{
+ 	position: absolute;
+ 	top: 41%;
+ 	right: 36.9%;
+ }
+ #name 
+{ 
+     right: 15%; 
+     top: 50%; 
+     position: absolute; 
+     width: 463px;
+     height: 33px;
+}
+#email 
+{ 
+     right: 15%; 
+     top: 57%; 
+     position: absolute; 
+     width: 463px;
+     height: 33px;
+}
+#phone 
+{ 
+     right: 15%; 
+     top: 63.2%; 
+     position: absolute; 
+     width: 463px;
+     height: 33px;
+}
+#message 
+{ 
+     right: 15%; 
+     top: 70%; 
+     position: absolute; 
+     width: 463px;
+     height: 125px;
+}
+#send 
+{ 
+     right: 15%; 
+     top: 84%; 
+     position: absolute; 
+     width: 95px;
+     height: 33px;
+     background: #3674ba;
+     color: white;
+}
+.white_bottom{
+	width: 100%;
+	height: 60px;
+}
+.copyright{
+  font-size: 12px;
+  color: #818181;
+  margin-top: 700px;
+  text-align: center;
+}
